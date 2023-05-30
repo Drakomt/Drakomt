@@ -1,8 +1,11 @@
+![MasterHead](https://media.licdn.com/dms/image/D5612AQFXNnBob2H0Nw/article-cover_image-shrink_600_2000/0/1677325426573?e=2147483647&v=beta&t=xv8EEn1rJUMPNuUeTJubnzFlYzjQCMhY0WirF5IxRQ0)
 <h1 align="center">Hi 👋, I'm Matthew Tsiplakov</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drakomt&label=Profile%20views&color=0e75b6&style=flat" alt="drakomt" /> </p>
+
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **mati.tsiplakov@gmail.com**
 
@@ -19,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drakomt&show_icons=true&locale=en" alt="drakomt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakomt&" alt="drakomt" /></p>
+
