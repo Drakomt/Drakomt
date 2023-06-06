@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQFXNnBob2H0Nw/article-cover_image-shrink_600_2000/0/1677325426573?e=2147483647&v=beta&t=xv8EEn1rJUMPNuUeTJubnzFlYzjQCMhY0WirF5IxRQ0)
-<h1 align="center">Hi 👋, I'm Matthew Tsiplakov</h1>
+<h1 align="center">Hi 👋, I'm Matthew Tsiplakov.</h1>
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif">
 
