@@ -43,3 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakomt&" alt="drakomt" /></p>
 
+![Snake animation](https://github.com/Drakomt/Drakomt/blob/output/github-contribution-grid-snake.svg)
