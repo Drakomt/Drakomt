@@ -32,7 +32,7 @@
 <h1>Data</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,mysql)](https://skillicons.dev)
 
 <h1>Other Tools</h1>
 
