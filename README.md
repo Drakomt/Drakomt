@@ -1,6 +1,7 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQFXNnBob2H0Nw/article-cover_image-shrink_600_2000/0/1677325426573?e=2147483647&v=beta&t=xv8EEn1rJUMPNuUeTJubnzFlYzjQCMhY0WirF5IxRQ0)
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+👋%2C+I'm+Matthew+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Matthew Welcome to my Profile! animated typed out">
-<!-- <h1 align="center">Hi 👋, I'm Matthew Tsiplakov</h1>-->
+<!--![MasterHead](https://media.licdn.com/dms/image/D5612AQFXNnBob2H0Nw/article-cover_image-shrink_600_2000/0/1677325426573?e=2147483647&v=beta&t=xv8EEn1rJUMPNuUeTJubnzFlYzjQCMhY0WirF5IxRQ0)
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+👋%2C+I'm+Matthew+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Matthew Welcome to my Profile! animated typed out">-->
+<h1 align="center">Hi 👋, I'm Matthew Tsiplakov</h1>
+
 <h3 align="center">A passionate Full-Stack developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif">
 
@@ -44,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakomt&" alt="drakomt" /></p>
 
-![Snake animation](https://github.com/Drakomt/Drakomt/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Drakomt/Drakomt/blob/output/github-contribution-grid-snake.svg)-->
