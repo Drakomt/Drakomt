@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Field skills mapped to engineering strengths: Calm under pressure to Production problem solving; Route planning to System architecture; Crew responsibility to Ownership and accountability; Clear communication to Cross-functional alignment; Mission execution to Reliable delivery; Field discipline to Clean engineering habits.">
+  <title>Field Skills to Engineering Strengths</title>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .s { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, "SF Mono", "Cascadia Mono", "Segoe UI Mono", Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+  <clipPath id="clip"><rect x="0.5" y="0.5" width="1199" height="339" rx="16"/></clipPath>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="#08090b"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect x="44" y="33" width="3" height="15" rx="1.5" fill="#ff5a30"/>
+    <text class="m" x="58" y="46" font-size="12.5" letter-spacing="3.2" fill="#f4f4f5">FIELD SKILLS → ENGINEERING STRENGTHS</text>
+    <text class="m" x="1156" y="46" font-size="11" letter-spacing="2" text-anchor="end" fill="#4b5563">06 MAPPED</text>
+    <line x1="44" y1="64" x2="1156" y2="64" stroke="#ffffff" stroke-opacity="0.07"/>
+    <g><rect x="44" y="84" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="44" y="96" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="68" y="122" font-size="15" fill="#9ca3af">Calm under pressure</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="250" y1="116" x2="284" y2="116"/><polyline points="277,110 284,116 277,122"/></g>
+      <rect x="294" y="96" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="302" y="122" font-size="15" font-weight="600" fill="#f4f4f5">Production problem solving</text></g>
+    <g><rect x="612" y="84" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="612" y="96" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="636" y="122" font-size="15" fill="#9ca3af">Route planning</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="818" y1="116" x2="852" y2="116"/><polyline points="845,110 852,116 845,122"/></g>
+      <rect x="862" y="96" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="870" y="122" font-size="15" font-weight="600" fill="#f4f4f5">System architecture</text></g>
+    <g><rect x="44" y="164" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="44" y="176" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="68" y="202" font-size="15" fill="#9ca3af">Crew responsibility</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="250" y1="196" x2="284" y2="196"/><polyline points="277,190 284,196 277,202"/></g>
+      <rect x="294" y="176" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="302" y="202" font-size="15" font-weight="600" fill="#f4f4f5">Ownership and accountability</text></g>
+    <g><rect x="612" y="164" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="612" y="176" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="636" y="202" font-size="15" fill="#9ca3af">Clear communication</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="818" y1="196" x2="852" y2="196"/><polyline points="845,190 852,196 845,202"/></g>
+      <rect x="862" y="176" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="870" y="202" font-size="15" font-weight="600" fill="#f4f4f5">Cross-functional alignment</text></g>
+    <g><rect x="44" y="244" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="44" y="256" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="68" y="282" font-size="15" fill="#9ca3af">Mission execution</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="250" y1="276" x2="284" y2="276"/><polyline points="277,270 284,276 277,282"/></g>
+      <rect x="294" y="256" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="302" y="282" font-size="15" font-weight="600" fill="#f4f4f5">Reliable delivery</text></g>
+    <g><rect x="612" y="244" width="544" height="64" rx="10" fill="#10131a" stroke="#ffffff" stroke-opacity="0.07"/>
+      <rect x="612" y="256" width="3" height="40" rx="1.5" fill="#5c8a6b"/>
+      <text class="s" x="636" y="282" font-size="15" fill="#9ca3af">Field discipline</text>
+      <g stroke="#ff5a30" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="818" y1="276" x2="852" y2="276"/><polyline points="845,270 852,276 845,282"/></g>
+      <rect x="862" y="256" width="3" height="40" rx="1.5" fill="#ff5a30"/>
+      <text class="s" x="870" y="282" font-size="15" font-weight="600" fill="#f4f4f5">Clean engineering habits</text></g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+</svg>

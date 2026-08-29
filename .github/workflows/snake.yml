@@ -1,0 +1,41 @@
+name: Contribution Route
+
+# Regenerates the contribution-snake SVGs in dist/ and commits them back to the
+# default branch. The README ships with placeholder SVGs at the same paths, so it
+# renders correctly even before this workflow has ever run.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 03:17 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: contribution-route
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution route
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Drakomt
+          outputs: |
+            dist/github-snake.svg?color_snake=#d64518&color_dots=#e6e2d9,#f0bda9,#e5906d,#dd6a3c,#d64518
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff5a30&color_dots=#161b22,#3a1a10,#7a2f14,#c2461f,#ff5a30
+
+      - name: Commit output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "chore: update contribution route [skip ci]"
+          git push
