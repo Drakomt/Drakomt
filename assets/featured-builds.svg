@@ -23,11 +23,11 @@
       <text class="s" x="66" y="116" font-size="18" font-weight="700" fill="#f4f4f5">SupChat</text>
       <rect x="66" y="126" width="28" height="2.5" rx="1.25" fill="#ff5a30"/>
       <text class="s" x="66" y="154" font-size="13" fill="#9ca3af">Real-time chat for private and group conversations.</text>
-      <g><rect x="66" y="190" width="46" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="75" y="206" font-size="11" fill="#9ca3af">React</text></g>
-      <g><rect x="118" y="190" width="72" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="127" y="206" font-size="11" fill="#9ca3af">TypeScript</text></g>
-      <g><rect x="196" y="190" width="55" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="205" y="206" font-size="11" fill="#9ca3af">Node.js</text></g>
-      <g><rect x="257" y="190" width="66" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="266" y="206" font-size="11" fill="#9ca3af">MongoDB</text></g>
-      <g><rect x="66" y="218" width="64" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="75" y="234" font-size="11" fill="#9ca3af">Socket.io</text></g>
+      <g><rect x="66" y="190" width="46" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="75" y="205.6" font-size="11" fill="#9ca3af">React</text></g>
+      <g><rect x="118" y="190" width="72" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="127" y="205.6" font-size="11" fill="#9ca3af">TypeScript</text></g>
+      <g><rect x="196" y="190" width="55" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="205" y="205.6" font-size="11" fill="#9ca3af">Node.js</text></g>
+      <g><rect x="257" y="190" width="66" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="266" y="205.6" font-size="11" fill="#9ca3af">MongoDB</text></g>
+      <g><rect x="66" y="218" width="64" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="75" y="233.6" font-size="11" fill="#9ca3af">Socket.io</text></g>
     </g>
     <g><rect x="421" y="80" width="357" height="168" rx="12" fill="#10131a" stroke="#ffffff" stroke-opacity="0.08"/>
       <text class="m" x="756" y="108" font-size="10.5" letter-spacing="1.5" text-anchor="end" fill="#4b5563">02</text>
@@ -35,11 +35,11 @@
       <rect x="443" y="126" width="28" height="2.5" rx="1.25" fill="#ff5a30"/>
       <text class="s" x="443" y="154" font-size="13" fill="#9ca3af">Socket-based client-server networking and packet</text>
       <text class="s" x="443" y="172" font-size="13" fill="#9ca3af">analysis.</text>
-      <g><rect x="443" y="190" width="52" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="452" y="206" font-size="11" fill="#9ca3af">Python</text></g>
-      <g><rect x="501" y="190" width="56" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="510" y="206" font-size="11" fill="#9ca3af">TCP/IP</text></g>
-      <g><rect x="563" y="190" width="58" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="572" y="206" font-size="11" fill="#9ca3af">Sockets</text></g>
-      <g><rect x="627" y="190" width="67" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="636" y="206" font-size="11" fill="#9ca3af">Wireshark</text></g>
-      <g><rect x="699" y="190" width="40" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="708" y="206" font-size="11" fill="#9ca3af">Kivy</text></g>
+      <g><rect x="443" y="190" width="52" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="452" y="205.6" font-size="11" fill="#9ca3af">Python</text></g>
+      <g><rect x="501" y="190" width="56" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="510" y="205.6" font-size="11" fill="#9ca3af">TCP/IP</text></g>
+      <g><rect x="563" y="190" width="58" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="572" y="205.6" font-size="11" fill="#9ca3af">Sockets</text></g>
+      <g><rect x="627" y="190" width="67" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="636" y="205.6" font-size="11" fill="#9ca3af">Wireshark</text></g>
+      <g><rect x="699" y="190" width="40" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="708" y="205.6" font-size="11" fill="#9ca3af">Kivy</text></g>
     </g>
     <g><rect x="798" y="80" width="357" height="168" rx="12" fill="#10131a" stroke="#ffffff" stroke-opacity="0.08"/>
       <text class="m" x="1133" y="108" font-size="10.5" letter-spacing="1.5" text-anchor="end" fill="#4b5563">03</text>
@@ -47,10 +47,10 @@
       <rect x="820" y="126" width="28" height="2.5" rx="1.25" fill="#ff5a30"/>
       <text class="s" x="820" y="154" font-size="13" fill="#9ca3af">Image classification pipeline, saved models, and</text>
       <text class="s" x="820" y="172" font-size="13" fill="#9ca3af">prediction GUI.</text>
-      <g><rect x="820" y="190" width="52" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="829" y="206" font-size="11" fill="#9ca3af">Python</text></g>
-      <g><rect x="878" y="190" width="55" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="887" y="206" font-size="11" fill="#9ca3af">Jupyter</text></g>
-      <g><rect x="939" y="190" width="106" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="948" y="206" font-size="11" fill="#9ca3af">Machine Learning</text></g>
-      <g><rect x="820" y="218" width="92" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="829" y="234" font-size="11" fill="#9ca3af">Model Training</text></g>
+      <g><rect x="820" y="190" width="52" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="829" y="205.6" font-size="11" fill="#9ca3af">Python</text></g>
+      <g><rect x="878" y="190" width="55" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="887" y="205.6" font-size="11" fill="#9ca3af">Jupyter</text></g>
+      <g><rect x="939" y="190" width="106" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="948" y="205.6" font-size="11" fill="#9ca3af">Machine Learning</text></g>
+      <g><rect x="820" y="218" width="92" height="22" rx="6" fill="#181c22" stroke="#ffffff" stroke-opacity="0.09"/><text class="s" x="829" y="233.6" font-size="11" fill="#9ca3af">Model Training</text></g>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="279" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
