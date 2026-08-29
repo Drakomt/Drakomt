@@ -1,48 +1,135 @@
-<!--![MasterHead](https://media.licdn.com/dms/image/D5612AQFXNnBob2H0Nw/article-cover_image-shrink_600_2000/0/1677325426573?e=2147483647&v=beta&t=xv8EEn1rJUMPNuUeTJubnzFlYzjQCMhY0WirF5IxRQ0)
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey+👋%2C+I'm+Matthew+Welcome+to+my+Profile!" align="center" alt="Hey, I'm Matthew Welcome to my Profile! animated typed out">-->
-<h1 align="center">Hi 👋, I'm Matthew Tsiplakov</h1>
+<div align="center">
 
-<h3 align="center">A passionate Full-Stack developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif">
+<img src="assets/profile-hero.svg" alt="Field route to software systems — Matthew Tsiplakov, Software Developer and former Tank Commander" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drakomt&label=Profile%20views&color=0e75b6&style=flat" alt="drakomt" /> </p>
+<br>
 
-- 💬 Ask me about anything, I am happy to help.
+<a href="https://matthew-tsiplakov.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FF5A30?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://matthew-tsiplakov.vercel.app/projects"><img src="https://img.shields.io/badge/PROJECTS-12151A?style=for-the-badge" alt="Projects"></a>
+<a href="https://matthew-tsiplakov.vercel.app/lab"><img src="https://img.shields.io/badge/LAB-12151A?style=for-the-badge" alt="Lab"></a>
+<a href="https://matthew-tsiplakov.vercel.app/resume"><img src="https://img.shields.io/badge/RESUME-12151A?style=for-the-badge" alt="Resume"></a>
+<a href="https://www.linkedin.com/in/matthew-tsiplakov"><img src="https://img.shields.io/badge/LINKEDIN-12151A?style=for-the-badge&logo=linkedin&logoColor=FF5A30" alt="LinkedIn"></a>
+<a href="mailto:mati.tsiplakov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-12151A?style=for-the-badge&logo=gmail&logoColor=FF5A30" alt="Email"></a>
 
-- 📫 How to reach me **mati.tsiplakov@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matthew-tsiplakov-8607b5268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-tsiplakov" height="30" width="40" /></a>
-</p>
+---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+### Intro
 
-<h1>Frontend</h1>
+Software developer building full-stack systems, clean interfaces, and practical architecture.
+I bring field-tested ownership, calm execution, and route-planning discipline into software work.
 
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,angular,bootstrap,typescript&theme=light)](https://skillicons.dev)
-  
-<h1>BackEnd</h1>
+---
 
+### Field Skills → Engineering Strengths
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,express,nodejs&theme=dark)](https://skillicons.dev)
+<img src="assets/field-skills.svg" alt="Calm under pressure to production problem solving; Route planning to system architecture; Crew responsibility to ownership and accountability; Clear communication to cross-functional alignment; Mission execution to reliable delivery; Field discipline to clean engineering habits" width="100%">
 
+---
 
-<h1>Data</h1>
+### Tech Stack
 
+**Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mongodb,mysql)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-12151A?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-12151A?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-12151A?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-12151A?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-12151A?style=flat-square&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-12151A?style=flat-square&logo=c&logoColor=white)
 
-<h1>Other Tools</h1>
+**Web & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,git,postman)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-12151A?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-12151A?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-12151A?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-12151A?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-12151A?style=flat-square&logo=dotnet&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-12151A?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-12151A?style=flat-square&logo=css&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-12151A?style=flat-square&logo=framer&logoColor=white)
+![Motion UI](https://img.shields.io/badge/Motion%20UI-12151A?style=flat-square)
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=drakomt&show_icons=true&locale=en&layout=compact" alt="drakomt" /></p>
+**Backend & Data**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drakomt&show_icons=true&locale=en" alt="drakomt" /></p>
+![REST API](https://img.shields.io/badge/REST%20API-12151A?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-12151A?style=flat-square&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-12151A?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-12151A?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-12151A?style=flat-square&logo=apachekafka&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-12151A?style=flat-square&logo=postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drakomt&" alt="drakomt" /></p>
+**Cloud & DevOps**
 
-<!--![Snake animation](https://github.com/Drakomt/Drakomt/blob/output/github-contribution-grid-snake.svg)-->
+![AWS](https://img.shields.io/badge/AWS-12151A?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-12151A?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-12151A?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-12151A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-12151A?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-12151A?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### [SupChat](https://github.com/Drakomt/SupChat)
+
+Real-time chat for private and group conversations, backed by Node.js and Socket.io.
+
+<sub>`React` `TypeScript` `Node.js` `MongoDB` `Socket.io`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### [Lord of the Pings](https://github.com/Drakomt/Lord-of-the-Pings)
+
+Socket-based client-server networking, built around TCP/IP and packet analysis.
+
+<sub>`Python` `TCP/IP` `Sockets` `Wireshark` `Kivy`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### [Dog vs Cat ML](https://github.com/Drakomt/Dog_vs_Cat_ML)
+
+Image classification in Python — training pipeline, saved models, and a prediction GUI.
+
+<sub>`Python` `Jupyter` `Machine Learning` `Model Training` `Data Processing`</sub>
+
+</td>
+</tr>
+</table>
+
+**More builds** — [NetflixClone](https://github.com/Drakomt/NetflixClone) · [EshopMERN](https://github.com/Drakomt/EshopMERN) · [DodgeGame](https://github.com/Drakomt/DodgeGame) · [all projects →](https://matthew-tsiplakov.vercel.app/projects)
+
+---
+
+### Current Route
+
+```console
+> route --status
+
+  ROLE     Software Developer · 123 Completed LTD
+  FOCUS    AI-oriented software project
+  STACK    React · Redux · TypeScript · Python · MongoDB · Redis · Kafka · Docker · AWS
+  STUDY    B.Sc. Computer Science — in progress
+  BASE     Israel
+  STATUS   ● open to software roles
+```
+
+<sub>Live contribution graph and repository activity render natively below this README on the <a href="https://github.com/Drakomt">profile page</a>.</sub>
+
+---
+
+<div align="center">
+
+**[Portfolio](https://matthew-tsiplakov.vercel.app/)** · **[Projects](https://matthew-tsiplakov.vercel.app/projects)** · **[Lab](https://matthew-tsiplakov.vercel.app/lab)** · **[Resume](https://matthew-tsiplakov.vercel.app/resume)** · **[LinkedIn](https://www.linkedin.com/in/matthew-tsiplakov)** · **[Email](mailto:mati.tsiplakov@gmail.com)**
+
+<sub>Field route → software systems.</sub>
+
+</div>
