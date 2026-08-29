@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 88" width="1200" height="88" role="img" aria-label="Signal stats for Drakomt: commit signal.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 60" width="880" height="60" role="img" aria-label="Signal stats for Drakomt: total contributions, current streak and longest streak.">
   <title>Signal Stats</title>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
@@ -10,15 +10,13 @@
       .m { font-family: ui-monospace, "SF Mono", "Cascadia Mono", "Segoe UI Mono", Menlo, Consolas, monospace; }
     </style>
   </defs>
-  <clipPath id="clip"><rect x="0.5" y="0.5" width="1199" height="87" rx="16"/></clipPath>
+  <clipPath id="clip"><rect x="0.5" y="0.5" width="879" height="59" rx="16"/></clipPath>
   <g clip-path="url(#clip)">
-    <rect width="1200" height="88" fill="#08090b"/>
-    <rect width="1200" height="88" fill="url(#grid)"/>
-    <rect x="44" y="33" width="3" height="15" rx="1.5" fill="#ff5a30"/>
-    <text class="m" x="58" y="46" font-size="12.5" letter-spacing="3.2" fill="#f4f4f5">SIGNAL STATS</text>
-    <text class="m" x="1156" y="46" font-size="11" letter-spacing="2" text-anchor="end" fill="#4b5563">@DRAKOMT · COMMIT SIGNAL</text>
-    <line x1="44" y1="64" x2="1156" y2="64" stroke="#ffffff" stroke-opacity="0.07"/>
-    <g><rect x="44.0" y="74.0" width="3" height="4" rx="1.5" fill="#ff5a30" fill-opacity="0.35"/><rect x="71.8" y="69.0" width="3" height="9" rx="1.5" fill="#ff5a30" fill-opacity="0.53"/><rect x="99.6" y="72.0" width="3" height="6" rx="1.5" fill="#ff5a30" fill-opacity="0.42"/><rect x="127.4" y="65.0" width="3" height="13" rx="1.5" fill="#5c8a6b" fill-opacity="0.68"/><rect x="155.2" y="71.0" width="3" height="7" rx="1.5" fill="#ff5a30" fill-opacity="0.46"/><rect x="183.0" y="75.0" width="3" height="3" rx="1.5" fill="#ff5a30" fill-opacity="0.31"/><rect x="210.8" y="67.0" width="3" height="11" rx="1.5" fill="#ff5a30" fill-opacity="0.60"/><rect x="238.6" y="73.0" width="3" height="5" rx="1.5" fill="#ff5a30" fill-opacity="0.38"/><rect x="266.4" y="63.0" width="3" height="15" rx="1.5" fill="#ff5a30" fill-opacity="0.75"/><rect x="294.2" y="70.0" width="3" height="8" rx="1.5" fill="#ff5a30" fill-opacity="0.49"/><rect x="322.0" y="74.0" width="3" height="4" rx="1.5" fill="#5c8a6b" fill-opacity="0.35"/><rect x="349.8" y="68.0" width="3" height="10" rx="1.5" fill="#ff5a30" fill-opacity="0.57"/><rect x="377.6" y="72.0" width="3" height="6" rx="1.5" fill="#ff5a30" fill-opacity="0.42"/><rect x="405.4" y="66.0" width="3" height="12" rx="1.5" fill="#ff5a30" fill-opacity="0.64"/><rect x="433.2" y="73.0" width="3" height="5" rx="1.5" fill="#ff5a30" fill-opacity="0.38"/><rect x="461.0" y="69.0" width="3" height="9" rx="1.5" fill="#ff5a30" fill-opacity="0.53"/><rect x="488.8" y="75.0" width="3" height="3" rx="1.5" fill="#ff5a30" fill-opacity="0.31"/><rect x="516.6" y="64.0" width="3" height="14" rx="1.5" fill="#5c8a6b" fill-opacity="0.71"/><rect x="544.4" y="71.0" width="3" height="7" rx="1.5" fill="#ff5a30" fill-opacity="0.46"/><rect x="572.2" y="74.0" width="3" height="4" rx="1.5" fill="#ff5a30" fill-opacity="0.35"/><rect x="600.0" y="68.0" width="3" height="10" rx="1.5" fill="#ff5a30" fill-opacity="0.57"/><rect x="627.8" y="72.0" width="3" height="6" rx="1.5" fill="#ff5a30" fill-opacity="0.42"/><rect x="655.6" y="65.0" width="3" height="13" rx="1.5" fill="#ff5a30" fill-opacity="0.68"/><rect x="683.4" y="73.0" width="3" height="5" rx="1.5" fill="#ff5a30" fill-opacity="0.38"/><rect x="711.2" y="70.0" width="3" height="8" rx="1.5" fill="#5c8a6b" fill-opacity="0.49"/><rect x="739.0" y="75.0" width="3" height="3" rx="1.5" fill="#ff5a30" fill-opacity="0.31"/><rect x="766.8" y="67.0" width="3" height="11" rx="1.5" fill="#ff5a30" fill-opacity="0.60"/><rect x="794.6" y="71.0" width="3" height="7" rx="1.5" fill="#ff5a30" fill-opacity="0.46"/><rect x="822.4" y="63.0" width="3" height="15" rx="1.5" fill="#ff5a30" fill-opacity="0.75"/><rect x="850.2" y="74.0" width="3" height="4" rx="1.5" fill="#ff5a30" fill-opacity="0.35"/><rect x="878.0" y="69.0" width="3" height="9" rx="1.5" fill="#ff5a30" fill-opacity="0.53"/><rect x="905.8" y="72.0" width="3" height="6" rx="1.5" fill="#5c8a6b" fill-opacity="0.42"/><rect x="933.6" y="66.0" width="3" height="12" rx="1.5" fill="#ff5a30" fill-opacity="0.64"/><rect x="961.4" y="73.0" width="3" height="5" rx="1.5" fill="#ff5a30" fill-opacity="0.38"/><rect x="989.2" y="68.0" width="3" height="10" rx="1.5" fill="#ff5a30" fill-opacity="0.57"/><rect x="1017.0" y="75.0" width="3" height="3" rx="1.5" fill="#ff5a30" fill-opacity="0.31"/><rect x="1044.8" y="70.0" width="3" height="8" rx="1.5" fill="#ff5a30" fill-opacity="0.49"/><rect x="1072.6" y="65.0" width="3" height="13" rx="1.5" fill="#ff5a30" fill-opacity="0.68"/><rect x="1100.4" y="72.0" width="3" height="6" rx="1.5" fill="#5c8a6b" fill-opacity="0.42"/><rect x="1128.2" y="74.0" width="3" height="4" rx="1.5" fill="#ff5a30" fill-opacity="0.35"/></g>
+    <rect width="880" height="60" fill="#08090b"/>
+    <rect width="880" height="60" fill="url(#grid)"/>
+    <rect x="22" y="23" width="3" height="15" rx="1.5" fill="#ff5a30"/>
+    <text class="m" x="36" y="36" font-size="12" letter-spacing="3.2" fill="#f4f4f5">SIGNAL STATS</text>
+    <text class="m" x="858" y="36" font-size="11" letter-spacing="2" text-anchor="end" fill="#4b5563">@DRAKOMT · LIVE</text>
   </g>
-  <rect x="0.5" y="0.5" width="1199" height="87" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  <rect x="0.5" y="0.5" width="879" height="59" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
 </svg>
